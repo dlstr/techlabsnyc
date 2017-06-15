@@ -1142,7 +1142,7 @@ p.tagline, .address-detail a.tagline {
 }
 
 .logo-custom {
-  width: 40%;
+  width: 40%!important;
 }
 
 .btn-default {
